@@ -1,0 +1,42 @@
+font-family:
+	roboto regular, medium
+	lato regular,medium,bold, semibold
+
+	pe icon 7 stroke
+
+
+font-family: roboto-regular;
+font-family: roboto-medium;
+
+font-family: lato-regular;
+font-family: lato-medium;
+font-family: lato-semibold;
+font-family: lato-bold;
+
+
+color--------
+
+	black: #333333
+	ash: #8e8e8e
+
+	data-bs-ride="carousel"
+
+
+
+======= padding =========
+		xxl/xl/lg     md     sm/xs
+
+
+
+
+
+======= font-size =========
+		xxl/xl/lg     md     sm/xs
+
+
+
+======= margin =========
+			      xxl/xl/lg     md     sm/xs
+work_sample  mt    60/60/50     40     30/30 
+ws_content   mt      10          10      10
+w_box        mt       30         30     20/16

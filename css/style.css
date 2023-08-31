@@ -1,0 +1,142 @@
+/*font-family connect*/
+@font-face{
+	src: url(../fonts/roboto-regular.ttf);
+	font-family: roboto-regular;
+}
+@font-face{
+	src: url(../fonts/roboto-medium.ttf);
+	font-family: roboto-medium;
+}
+@font-face{
+	src: url(../fonts/lato-regular.ttf);
+	font-family: lato-regular;
+}
+@font-face{
+	src: url(../fonts/lato-medium.ttf);
+	font-family: lato-medium;
+}
+@font-face{
+	src: url(../fonts/lato-semibold.ttf);
+	font-family: lato-semibold;
+}
+@font-face{
+	src: url(../fonts/lato-bold.ttf);
+	font-family: lato-bold;
+}
+
+/*common css start*/
+body{
+	font-family: roboto-regular;
+	font-size: 16px;
+	font-weight: 400;
+	color: #8e8e8e;
+}
+.cm_padding{
+	padding: 50px 0;
+}
+/*common css end*/
+
+/*testimony start*/
+.carou_border{
+	border: 1px solid #8e8e8e;
+	border-radius: 4px;
+}
+.testimony{}
+.t_slide{}
+.t_content {
+    padding: 40px 30px;
+}
+.tes_img{
+	position: relative;
+}
+.tes_img img{
+	border-radius: 2px;
+}
+.q_icon {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+}
+.q_icon i{
+	font-size: 40px;
+    color: #333333;
+}
+
+.tesc_h2{
+	font-family: lato-bold;
+    font-size: 18px;
+    font-weight: 700;
+    color: #333333;
+/*    line-height: 30px;*/
+    text-transform: uppercase;
+}
+.tesc_h3{
+	margin: 18px 0;
+	font-size: 18px;
+    font-weight: 400;
+    color: #8e8e8e;
+}
+.tesc_h4{
+	font-size: 18px;
+    font-weight: 400;
+    color: #333333;
+}
+.tesc_p1{
+	margin-top: 36px;
+    color: #8e8e8e;
+	line-height: 26px;
+}
+.tesc_p2{
+    color: #8e8e8e;
+	line-height: 26px;
+}
+
+
+.pipe_box{
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pipe{
+	width: 12px;
+    height: 2px;
+    background-color: #8e8e8e;
+}
+.pipe2{
+    margin: 6px 0;
+    width: 18px;
+	background-color: #333333;
+}
+.tttt1{}
+.tes_btn1{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+	background: #f7f3f3;
+    align-items: center;
+	border-radius: 4px;
+}
+.tes_sbtn{
+    padding: 10px;
+	font-family: roboto-medium;
+    font-size: 18px;
+    font-weight: 500;
+    color: #8e8e8e;
+    background: transparent;
+    writing-mode: vertical-rl;
+    transform: rotate(90deg);
+    border: 1px solid transparent;
+    transition: .3s ease;
+}
+.tes_sbtn:hover{
+	color: #333333;
+}
+.tes_sbtn:active{
+	color: black;
+}
+.tes_sbtn1{}
+.tes_sbtn2{}
+
+/*testimony end*/
+
