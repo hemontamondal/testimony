@@ -25,3 +25,5 @@ css code:
   border: 1px solid #000;
 }
 In this example, the writing-mode: vertical-rl; CSS property sets the writing mode to vertical, making the text flow vertically from right to left. The transform: rotate(180deg); property rotates the text by 180 degrees, effectively flipping it vertically. The rest of the CSS is for styling purposes and can be adjusted as needed.
+
+https://hemontamondal.github.io/testimony/
